@@ -312,37 +312,55 @@ Roßlau, August 1292. How wrong you were! When you reached Hohnstein Castle, you
 
 _**4th Campaign - Mission 51 - War in the heathlands**_
 
+Description coming soon
+
 ![51](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5451a440-1bf2-4173-ba02-ba389577140c)
 
 _**4th Campaign - Mission 52 - Through the back door**_
+
+Description coming soon
 
 ![52](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/da60ecb2-60db-4174-a7b1-50699de6a686)
 
 _**4th Campaign - Mission 53 - The swamps of doom**_
 
+Description coming soon
+
 ![53](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6404763c-b0dc-4a4a-a48e-9733f46d287a)
 
 _**4th Campaign - Mission 54 - Bad luck in Glücksburg Castle**_
+
+Description coming soon
 
 ![54](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/33c92bb8-b99e-4a14-bad6-71b27eb29c54)
 
 _**4th Campaign - Mission 55 - Burst dreams**_
 
+Description coming soon
+
 ![55](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/a11f93a7-8068-4d1a-af80-4948a10cefb8)
 
 _**4th Campaign - Mission 56 - Far off the beaten track**_
+
+Description coming soon
 
 ![56](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/71a8d496-75de-489f-82fe-b74591106c98)
 
 _**4th Campaign - Mission 57 - Treacherous peace**_
 
+Description coming soon
+
 ![57](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/1db0c9b2-85bc-4680-ac59-89ecd9d9fe2f)
 
 _**4th Campaign - Mission 58 - The fateful forest**_
 
+Description coming soon
+
 ![58](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6d8bd6be-5650-4357-a173-54ff6ebd9b49)
 
 _**4th Campaign - Mission 59 - When two people quarrel**_
+
+Description coming soon
 
 ![59](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/41852309-7e0f-49f0-8fa1-24d9bbc91dc8)
 
