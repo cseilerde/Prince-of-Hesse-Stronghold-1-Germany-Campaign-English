@@ -2,6 +2,7 @@
 1st Campaign - Mission 01 - Escape to the mountains
 
 Mount Watzmann, January 1275. Like a dying tree, the order of the Old German Empire has perished. Within just a few years, the "Rebellious Four" managed with deceit and violence to conquer the imperial armies, dethrone the Emperor, and completely divide the Empire among themselves. As one of the late Emperor's last loyalists, you must go into hiding and are heading south towards the mountains with a few allies. You have now arrived in the area of Mount Watzmann by Lake Königssee, near which there is a small alpine hut of the enemy with cows. Assuming that no one will pursue you in this remote area, you will seize the hut and hope that the move will not have any repercussions. Stock up your supplies once the hut is yours. The wild animals are a serious threat here.
+
 ![1](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/95630127-420d-4b8f-b0b4-a6b67cdfd7e9)
 1st Campaign - Mission 02 - The Pass of the Two Towers
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
