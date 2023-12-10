@@ -1,4 +1,15 @@
-# Prince-of-Hesse-Stronghold-1-Germany-Campaign-English!
+# Prince-of-Hesse-Stronghold-1-Germany-Campaign-English
+
+Stronghold is not just a game. It is one of the best and most popular strategy games of all time. I appreciate the depth of strategic thinking Stronghold requires from the player, and even more, the world editor, which allows you to design a map to the greatest level of detail and reflect nature's beauty in it. 
+
+Acknowledging the great work many authors have contributed to the Stronghold Community, I created a set of 70 missions to conquer medieval Germany. My aim is to give you a Stronghold experience that reflects the beauty of my home country Germany and the diversity of its castles. 
+
+The complexity of this project increased with time. Initially wanting to build 20 missions, I continued to receive more ideas and felt the need to express them in the campaign. Work on this project took me a few years, with breaks included.
+
+The missions have been grouped into five campaigns and feature dozens of real-life maps, including many original German castles that are based on their original footprint/construction plan. The missions also include fictional maps reflecting Germany's scenery.
+
+At 'very hard' settings, most of my missions are tough but feasible. Like in the Middle Ages, you will need to build and defend your castle wisely.  
+
 1st Campaign - Mission 01 - Escape to the mountains
 
 Mount Watzmann, January 1275. Like a dying tree, the order of the Old German Empire has perished. Within just a few years, the "Rebellious Four" managed with deceit and violence to conquer the imperial armies, dethrone the Emperor, and completely divide the Empire among themselves. As one of the late Emperor's last loyalists, you must go into hiding and are heading south towards the mountains with a few allies. You have now arrived in the area of Mount Watzmann by Lake Königssee, near which there is a small alpine hut of the enemy with cows. Assuming that no one will pursue you in this remote area, you will seize the hut and hope that the move will not have any repercussions. Stock up your supplies once the hut is yours. The wild animals are a serious threat here.
