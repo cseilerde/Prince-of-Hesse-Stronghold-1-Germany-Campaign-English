@@ -347,45 +347,67 @@ _**4th Campaign - Mission 59 - When two people quarrel**_
 ![59](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/41852309-7e0f-49f0-8fa1-24d9bbc91dc8)
 
 _**4th Campaign - Mission 60 - An unholy alliance**_
+
 Description coming soon
+
 Screenshot coming soon
 
 _**4th Campaign - Mission 61 - With united forces**_
+
 Description coming soon
+
 Screenshot coming soon
 
 _**4th Campaign - Mission 62 - Treason in Hohenzollern**_
+
 Description coming soon
+
 Screenshot coming soon
 
 _**4th Campaign - Mission 63 - The last tyrant**_
+
 Description coming soon
+
 Screenshot coming soon
 
 _**5th Campaign - Mission 64 - The shameful sons**_
+
 Description coming soon
+
 Screenshot coming soon
 
 _**5th Campaign - Mission 65 - The revenge of the separatists**_
+
 Description coming soon
+
 Screenshot coming soon
 
 _**5th Campaign - Mission 66 - The intrusive neighbour**_
+
 Description coming soon
+
 Screenshot coming soon
 
 **5th Campaign - Mission 67 - The battle on Mount Arber**
+
 Description coming soon
+
 Screenshot coming soon
 
 **5th Campaign - Mission 68 - Enemies of the Cross**
+
 Description coming soon
+
 Screenshot coming soon
 
 **5th Campaign - Mission 69 - Turmoil in Hambach**
+
 Description coming soon
+
 Screenshot coming soon
 
 **5th Campaign - Mission 70 - The rebirth of the Empire**
+
 Description coming soon
+
 Screenshot coming soon
