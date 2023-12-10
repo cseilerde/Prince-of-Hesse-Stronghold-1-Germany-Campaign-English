@@ -57,3 +57,4 @@
 ![56](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/71a8d496-75de-489f-82fe-b74591106c98)
 ![57](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/1db0c9b2-85bc-4680-ac59-89ecd9d9fe2f)
 ![58](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6d8bd6be-5650-4357-a173-54ff6ebd9b49)
+![59](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/41852309-7e0f-49f0-8fa1-24d9bbc91dc8)
