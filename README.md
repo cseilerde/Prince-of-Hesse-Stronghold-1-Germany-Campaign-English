@@ -5,8 +5,14 @@ Mount Watzmann, January 1275. Like a dying tree, the order of the Old German Emp
 
 ![1](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/95630127-420d-4b8f-b0b4-a6b67cdfd7e9)
 1st Campaign - Mission 02 - The Pass of the Two Towers
+
+A mountain pass in the Alps, March 1275. What was not supposed to happen happened. You were spotted by a patrol of Duke Beauregard who because of his slyness is also called "the Snake". Although you were able to defeat the troop, you must leave your base in haste. You are now arriving at a mountain pass with two old watchtowers. As you are about to reach the summit you spot a patrol of the Snake heading towards you who appears to be fleeing from a pack of wolves. You must retreat immediately, maybe to one of the two towers?
+
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
 1st Campaign - Mission 03 - The way is blocked
+
+A gorge in the Alps, March 1275. The wolves are not giving you a single quiet minute. After the slaughter at the mountain pass, you are entering a gorge that resounds the howling of the wolves inside. You cannot turn around as you are suspecting that the enemy is tracking you. Put an end to the activities of the wolves and give your tired men some peace. On the hill, there is a small fort whose inhabitants have apparently barred their gate to keep the wolves outside. Maybe you will find some shelter there.
+
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
 1st Campaign - Mission 04 - The swampy ravine
 ![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b9532ff-5194-4fe9-b57c-4f7b0856cfdc)
