@@ -10,31 +10,31 @@ The missions have been grouped into five campaigns and feature dozens of real-li
 
 At 'very hard' settings, most of my missions are tough but feasible. Like in the Middle Ages, you will need to build and defend your castle wisely.  
 
-1st Campaign - Mission 01 - Escape to the mountains
+**1st Campaign - Mission 01 - Escape to the mountains**
 
 Mount Watzmann, January 1275. Like a dying tree, the order of the Old German Empire has perished. Within just a few years, the "Rebellious Four" managed with deceit and violence to conquer the imperial armies, dethrone the Emperor, and completely divide the Empire among themselves. As one of the late Emperor's last loyalists, you must go into hiding and are heading south towards the mountains with a few allies. You have now arrived in the area of Mount Watzmann by Lake Königssee, near which there is a small alpine hut of the enemy with cows. Assuming that no one will pursue you in this remote area, you will seize the hut and hope that the move will not have any repercussions. Stock up your supplies once the hut is yours. The wild animals are a serious threat here.
 
 ![1](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/95630127-420d-4b8f-b0b4-a6b67cdfd7e9)
 
-1st Campaign - Mission 02 - The Pass of the Two Towers
+**1st Campaign - Mission 02 - The Pass of the Two Towers**
 
 A mountain pass in the Alps, March 1275. What was not supposed to happen happened. You were spotted by a patrol of Duke Beauregard who because of his slyness is also called "the Snake". Although you were able to defeat the troop, you must leave your base in haste. You are now arriving at a mountain pass with two old watchtowers. As you are about to reach the summit you spot a patrol of the Snake heading towards you who appears to be fleeing from a pack of wolves. You must retreat immediately, maybe to one of the two towers?
 
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
 
-1st Campaign - Mission 03 - The way is blocked
+**1st Campaign - Mission 03 - The way is blocked**
 
 A gorge in the Alps, March 1275. The wolves are not giving you a single quiet minute. After the slaughter at the mountain pass, you are entering a gorge that resounds the howling of the wolves inside. You cannot turn around as you are suspecting that the enemy is tracking you. Put an end to the activities of the wolves and give your tired men some peace. On the hill, there is a small fort whose inhabitants have apparently barred their gate to keep the wolves outside. Maybe you will find some shelter there.
 
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
 
-1st Campaign - Mission 04 - The swampy ravine
+**1st Campaign - Mission 04 - The swampy ravine**
 
 A gorge in the northern Alps, March 1275. You leave your camp behind and get back onto a northbound route. When you arrive at a bottleneck, you suddenly hear people screaming behind the hillside. You are reckoning that the settlement up there may be under attack by outlaws or Snake troops. You have decided to look into the matter and drive the enemy out of this entire area. Do this before he can send reinforcements as otherwise, you will quickly be outnumbered. Heavy rains have turned the gorge in front of you into a quagmire.
 
 ![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b9532ff-5194-4fe9-b57c-4f7b0856cfdc)
 
-1st Campaign - Mission 05 - A new base
+**1st Campaign - Mission 05 - A new base**
 
 Chiemgau Alps, March 1275. After another exhausting march through the slowly fading winter, you have found a hunter's lodge in suitable terrain. Move your rearguard from the south to your new base. Then collect further stocks and produce light weapons. As your main enemy, Duke Beauregard, is now aware that insurgent activities are occurring down here in the south, you must prepare yourselves to fight back.
 
