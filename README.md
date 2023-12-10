@@ -15,16 +15,34 @@ A gorge in the Alps, March 1275. The wolves are not giving you a single quiet mi
 
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
 1st Campaign - Mission 04 - The swampy ravine
+
+A gorge in the northern Alps, March 1275. You leave your camp behind and get back onto a northbound route. When you arrive at a bottleneck, you suddenly hear people screaming behind the hillside. You are reckoning that the settlement up there may be under attack by outlaws or Snake troops. You have decided to look into the matter and drive the enemy out of this entire area. Do this before he can send reinforcements as otherwise, you will quickly be outnumbered. Heavy rains have turned the gorge in front of you into a quagmire.
+
 ![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b9532ff-5194-4fe9-b57c-4f7b0856cfdc)
 1st Campaign - Mission 05 - A new base
+
+Chiemgau Alps, March 1275. After another exhausting march through the slowly fading winter, you have found a hunter's lodge in suitable terrain. Move your rearguard from the south to your new base. Then collect further stocks and produce light weapons. As your main enemy, Duke Beauregard, is now aware that insurgent activities are occurring down here in the south, you must prepare yourselves to fight back.
+
 ![5](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5e30e98e-62e7-43e0-8b81-98436091466f)
 1st Campaign - Mission 06 - The two streams
+
+A river in the Alps, May 1275. Peasants of this region are joining you in increasing numbers. Strengthened by their support, you move further northwards. You have been told that on the other side of a nearby river there is a base of outlaws who cooperate with the Snake. You do not hesitate and decide to put a stop to their activities.
+
 ![6](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/52cd91d0-2b34-4296-8fd2-4de7f61b576e)
 1st Campaign - Mission 07 - The tower on the cliff
+
+Alps, April 1275. The camp of the outlaws is not suitable for a longer stay. You move on and find deep in the mountains an area with rugged valleys, in which there is a small base of troops of the Snake, surrounded by a palisade. The base is advantageously situated on a cliff. A long time ago, a bridge crossed the wild river but only ruins are left of it. Go and find a way to the base through the wilderness and conquer the base. Then stay there for a while. The Snake will certainly catch wind of your undertaking, therefore, manufacture light weapons again and hold the fort.
+
 ![7](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/235e6153-dd9e-473d-bb29-0ba06e2af829)
 1st Campaign - Mission 08 - Bavarian apples
+
+Lake Chiemsee, June 1275. You require more resources and food supplies. Therefore, you have decided to move into the Bavarian flatlands. The word of your revolt has spread. Some apple farmers support your resistance. They have offered you to stock up your supplies through their apple orchards which are situated behind some marshlands. As you currently have no better option, you accept their offer and march through the night through the Snake's territory to Lake Chiemsee. Entrench yourselves there and clear the thicket to obtain further grasslands. Close by, there is a small village of farmers of the Snake. Therefore, to go unrecognised, you have clothed yourselves in the colours of the Snake - will it help? Certainly, the small group of riders will be of help who have been sent by a good old friend. They should arrive shortly.
+
 ![8](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/05bfd733-27ad-46cb-87af-edc4674956b7)
 1st Campaign - Mission 09 - Saved at the last minute
+
+Near Schongau by the Lech River, September 1275. As the attacks of the Snake at Lake Chiemsee have become too frequent, you are set to get back on the move again. You call a meeting with your advisors and discuss the route. They recommend that you seek shelter in the extensive woodlands of the Black Forest, about a week's march away. You agree and get moving. After a three day's march, you cross the Lech River. Suddenly you notice a heavily armed black rider who follows you and has likely been sent by the Snake. Panicking, your men run back to the river just to hear even more galloping of horses. "Cross the river to the fort!", you shout to your frightened men. If you are allowed to enter, establish a base there and fortify the town, preferably by strengthening its walls. In addition, you should send all available men to dig a ditch as wide as possible.
+
 ![9](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/7ada9ca4-23cb-4d83-9191-b5abe537546a)
 1st Campaign - Mission 10 - Playing with fire
 ![10](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/84a3159f-e897-4d4b-9abd-70b9d3947a74)
