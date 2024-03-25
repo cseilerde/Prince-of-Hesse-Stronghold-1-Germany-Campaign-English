@@ -490,7 +490,7 @@ On the road to Asseburg Castle, April 1297. Regenstein Castle is yours, and the 
 
 _**4th Campaign - Mission 61 - The hunt of the Wolf**_
 
-Description coming soon
+Asseburg, May 1297. The Wolf's main army is now wiped out, despite the Pope's intervention. You will have to worry about your new enemy from Rome later, because your armed forces are also almost destroyed. Since you suspect that the Wolf's Castle is now almost unprotected, you march on to Asseburg. When you arrive, you realise your mistake: The castle is heavily guarded and can hardly be taken. Build a fort nearby and obtain resources to enter the siege. The Wolf will certainly gather all remaining troops and send them against you, so be on your guard day and night. You decide to now dress your troops in the royal color "red", which was previously so shamefully abused by the Pig. As soon as the Wolf is in the grave, nothing stands in the way of your coronation as emperor. Unless Rome stands up against it.
 
 
 
@@ -498,7 +498,7 @@ Description coming soon
 
 _**4th Campaign - Mission 62 - Treason in Hohenzollern**_
 
-Description coming soon
+Hohenzollern Castle, November 1297. After months of siege, you finally manage to take the castle. But a prisoner tells you that the Wolf secretly left with a troop of riders weeks ago. Immediately send your inquiries throughout the empire. After two weeks you receive bad news from the south. The Lord of Hohenzollern, who has a powerful fortress in Württemberg, was now cooperating with the Pope and granted the Wolf asylum. High treason! - at the decisive moment of your movement! This cannot be tolerated. You immediately travel south to put things in order.
 
 
 
@@ -506,7 +506,7 @@ Description coming soon
 
 _**4th Campaign - Mission 63 - The last tyrant**_
 
-Description coming soon
+Hohenschwangau Castle, February 1298. Hohenzollern Castle was rightfully cleansed of the traitors. But again, to your great astonishment, you realise that the Wolf was not among the prisoners. A messenger comes to you and explains that a heavily armed black squad has been found on the southern border of the empire, has occupied Hohenschwangau Castle and devastated the nearby small town. You immediately march south and besiege the castle. You manage to take the right wing of the castle, but the Wolf has barricaded himself in the tower opposite, which has a secret underground entrance. To make matters worse, you are now being shot at from there and cannot defend yourselves because you have lost almost all of your ranged fighters. What have you gotten yourself into here? You urgently need to find the secret access route. Quickly pull your little rear guard to the castle and make sure that the Wolf does not escape anymore!
 
 
 
@@ -514,7 +514,7 @@ Description coming soon
 
 _**5th Campaign - Mission 64 - The shameful sons**_
 
-Description coming soon
+Salzburg, June 1298. When you saw the Wolf dead at your feet, you believed that the final battle had been fought. But the emerging celebratory mood is dampened when you hear that the powerful city of Salzburg has decided not to recognise you as the future emperor and was about to secede from the empire. You will not tolerate this because Salzburg still owes the empire large amounts of money. You therefore gather all available troops from the empire and march east to Salzburg to take Hohensalzburg Fortress, which should put an end to the separation efforts. But when you reach the city, the more bad news arrive. The sons of the Wolf, Pig, and Rat, shameful individuals, have gathered together to avenge the death of their fathers and are already on the march to confront you near Salzburg. How much time do you have left?
 
 
 
@@ -522,7 +522,7 @@ Description coming soon
 
 _**5th Campaign - Mission 65 - The revenge of the separatists**_
 
-Description coming soon
+Burghausen, June 1299. The victory against the Salzburgers and the rebellious sons has strengthened your position of power. But Salzburg is not giving up. A few weeks after calm has returned to Salzburg, you receive bad news: Those from Salzburg who had fled have incited the King of Bohemia against you. Burghausen Castle, a large fortress in your Bavarian provinces, is on the verge of a siege and urgently needs support. You only have a few troops left, but you travel to Burghausen immediately. The Bohemians will also have to learn their lesson! As the arrows start flying, you manage to sneak your troops into the castle just in time. Quickly get the weapons from the armory to everyone available!
 
 
 
@@ -530,7 +530,7 @@ Description coming soon
 
 _**5th Campaign - Mission 66 - The intrusive neighbour**_
 
-Description coming soon
+Nuremberg, August 1299. The Salzburg uprising as been suppressed. But the King of Bohemia considered the defeat in Burghausen as an affront. He is preparing to send even larger contingents of troops against the cities of your empire. You have just learned that the imperial city of Nuremberg is under siege by a large Bohemian army. When you arrive at the scene with your rapid reaction force, parts of the city are already in flames. Hold the city, defend it, and restore it to its former strength!
 
 
 
@@ -538,7 +538,7 @@ Description coming soon
 
 **5th Campaign - Mission 67 - The battle on Mount Arber**
 
-Description coming soon
+Mount Großer Arber, Bavarian Forest, October 1300. After you have cleared the region around Nuremberg of the enemy, it is time to finally put a stop to the King of Bohemia. You move your army to the imperial border in the southeast. Your enemy is not letting you wait. He has lined up at Mount Großer Arber and gained an advantageous position on the mountain top. With difficulty you push your army through the dry undergrowth. It hasn't rained for weeks. As the enemy comes into view, you realise that you are heavily outnumbered. You feverishly search the area for favorable defensive positions. Not far from you there is a ruined tower, and here and there are abandoned hunters' seats. Suddenly you receive information about an abandoned storage area with stocks of lamp oil, which must have served the no longer existing hill chapel. Can this be used to build a fire wall in the dry forest? Just do not burn yourself!
 
 
 
@@ -546,7 +546,7 @@ Description coming soon
 
 **5th Campaign - Mission 68 - Enemies of the Cross**
 
-Description coming soon
+Coburg, October 1300. After the narrow victory in the Bavarian Forest, you begin planning for your election as emperor in Frankfurt. But before you can leave there, you receive bad news again. The Pope has finally decided to deny you the imperial dignity. Therefore, he sent massive contingents of troops to the command of his ally, the Duke of Bohemia, in order to cause chaos in your empire. You immediately send your main troops to the trouble spots, especially to Coburg, where the enemy is already at the gates. Your cavalry reaches the castle just in time. It is too late for the rest of your soldiers. They must take on the enemy at the castle gates, where the latter has built a firewall to shield themselves. Will Coburg fall? When will peace finally return to the empire?
 
 
 
@@ -554,7 +554,7 @@ Description coming soon
 
 **5th Campaign - Mission 69 - Turmoil in Hambach**
 
-Description coming soon
+Hambach Castle, November 1300. After the victory in Coburg, you had hoped to finally be able to stand for election as emperor. But far from it! Misfortune rarely comes alone, and especially not when powerful enemies are trying to sabotage your election as emperor. You are surrounded by adversaries and cannot afford to rest now. As if Bohemia in the east and the Pope in the south were not enough of a burden, Catholic France now officially declares war on you, besieges Hambach Castle in the Palatinate, and sets everything there on fire. Be sure to support the lord of the castle and ensure that Hambach goes down in history as a place of a brilliant victory. Then stay there until the enemy loses interest in the conflict.
 
 
 
@@ -562,7 +562,7 @@ Description coming soon
 
 **5th Campaign - Mission 70 - The rebirth of the Empire**
 
-Description coming soon
+Frankfurt, December 1300. After the victory in Hambach you reach Frankfurt and the celebrations for your election to become the emperor are in full swing. But the ceremony comes to an abrupt end when you receive the news that a fire has broken out in the city. From then on, the bad news pile up. To make matters worse, you now hear that three powerful armies are approaching to prevent your imperial coronation and raze the city to the ground. You already suspect that again, it can only be the Pope, the King of Bohemia, and the French. Save the city and yourselves at all costs and stand your ground in battle. Then expand the city into an imperial city that lives up to its name. Show the beauty of your architecture to the entire empire. And, last but not least: Ensure that your imperial army is adequately equipped so that your empire can continue to prosper in peace for a long time.
 
 
 
