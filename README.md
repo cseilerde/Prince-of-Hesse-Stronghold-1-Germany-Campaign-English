@@ -126,7 +126,7 @@ _**1st Campaign - Mission 15 - A troublesome neighbour**_
 
 Chateau de Luetzelbourg/Chateau Rathsamhausen, July 1277. You will not forget that De Puce intended to burn you alive in the fiery flames of the Black Forest. There will be no further negotiations with him. Instead, you march several day's marches northwards and hear of a suitably situated couple of castles built closely together and owned by De Puce, beyond the Rhine river. When you begin the siege of Chateau de Luetzelbourg, the eastern of the two, their garrison is surprised by your presence and fails to defend the castle well. Shortly after, you are able to occupy the castle. Barricade yourselves here and conquer the other (better guarded) castle. Ensure that the constant fire from the other castle ceases. The battle has not yet come to an end when you receive bad news: A large troop of soldiers from adjacent France have gathered in the valley to come to De Puce's aid and take the castle away from you again.
 
-![15](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/12f49d2e-51cd-431c-b822-6d5ecb9b0c9f)
+![15](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8b0081b7-bbc1-4f39-9196-c46d270efe0f)
 
 ---
 
