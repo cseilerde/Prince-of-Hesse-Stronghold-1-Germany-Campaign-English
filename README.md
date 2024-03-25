@@ -196,7 +196,7 @@ _**2nd Campaign - Mission 24 - A short-lived rest**_
 
 Mespelbrunn Castle, March 1281. Now that Miltenberg due to your presence has turned into a prospering settlement again, you travel further to the north. The Count of Mespelbrunn has offered you rest in his castle. But events are taking a bad turn. The enemy must have pursued you, and before nightfall, enemy troops are swarming in the forest, and worse, they have even brought heavy siege machinery with them. Help the Count of Mespelbrunn to defend his castle (and by doing so, save your own life). The Count has some stocks of flammable oil which you can use to defend yourselves. This does, however, not explain the strong stench of oil in the castle.
 
-
+![24](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/aa35546e-3820-4e19-b6b3-23b2e371a246)
 
 ---
 
