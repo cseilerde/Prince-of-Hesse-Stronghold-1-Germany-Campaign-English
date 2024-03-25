@@ -38,7 +38,7 @@ _**1st Campaign - Mission 04 - The swampy ravine**_
 
 A gorge in the northern Alps, March 1275. You leave your camp behind and get back onto a northbound route. When you arrive at a bottleneck, you suddenly hear people screaming behind the hillside. You are reckoning that the settlement up there may be under attack by outlaws or Snake troops. You have decided to look into the matter and drive the enemy out of this entire area. Do this before he can send reinforcements as otherwise, you will quickly be outnumbered. Heavy rains have turned the gorge in front of you into a quagmire.
 
-![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5f9e21b9-700b-4017-a240-c99347f5c7e8)
+![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/cf5eaf9c-1b5d-45dc-ac2d-c62f18be8ec2)
 
 ---
 
@@ -62,7 +62,7 @@ _**1st Campaign - Mission 07 - The tower on the cliff**_
 
 Alps, April 1275. The camp of the outlaws is not suitable for a longer stay. You move on and find deep in the mountains an area with rugged valleys, in which there is a small base of troops of the Snake, surrounded by a palisade. The base is advantageously situated on a cliff. A long time ago, a bridge crossed the wild river but only ruins are left of it. Go and find a way to the base through the wilderness and conquer the base. Then stay there for a while. The Snake will certainly catch wind of your undertaking, therefore, manufacture light weapons again and hold the fort.
 
-![7](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/74cab571-6419-484d-98c6-9840e4b8713e)
+![7](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/e08fcb7d-35ce-406f-a759-f1053ea69a6b)
 
 ---
 
@@ -134,7 +134,7 @@ _**1st Campaign - Mission 16 - In the dead of night**_
 
 Altleinigen Castle/Pfalz mountains, November 1277. The battles near Luetzelbourg/Rathsamhausen were fierce but you will push on. You have been told that the Rat owns another castle a few days' marches to the north whose Lord is about to commemorate his birthday with a large celebration. You begin marching as you assume that the guards, too, will indulge in the abundance of beer. A few days later, at nightfall, you reach the valley which is still filled with music. Suddenly, a beacon fire is lit on the hill next to you. Have you been watched? Stay at your location for a little while and observe the valley until you can safely move. Then, attack and eliminate the Lord first, sparing the garrison. The drunk men may become easily discouraged and be persuaded to join you. Defend the castle as long as it appears opportune.  
 
-![16](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c480988b-0979-40fa-bfb5-98a751c1b216)
+![16](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/22f1cd2b-99e0-4b84-9cef-4fe0a9fcd0d0)
 
 ---
 
@@ -166,7 +166,7 @@ _**1st Campaign - Mission 20 - The Rat's burrow**_
 
 Near the township of Bingen, June 1278. The Rat - this rascal! He must somehow have found out about your meeting point. By sending troops clothed in misleading colours, he made you believe they were allies, and you walked into the trap. Thankfully, some of them surrendered after a fierce battle and joined you. This is a narrow victory. You pursue the fleeing and catch sight of the Rat's fortress, Ehrenfels Castle, situated on the other side of the Rhine river. In between, there is a strongly guarded tower, colloquially called the 'Mouse Tower'. As you have almost no troops left, you ask Count Klopp of Rhine-Hesse, who despises the primitive character of De Puce and is not on good terms with him, whether you may use his newly erected castle south of the river. The Count gladly allows it. Bring everything to an end here. But be careful. De Puce has almost been defeated, but he is not alone. Duke Truffe, called "The Pig" due to his chronic obesity, will do his utmost to interfere.
 
-![20](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/59fd0ce8-7682-4e69-8c05-c954d8090db4)
+![20](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/435065c9-de92-4a99-b907-5c8323176b48)
 
 ---
 
@@ -182,7 +182,7 @@ _**2nd Campaign - Mission 22 - The fortress on the mountain**_
 
 Auerbach Castle, March 1279. After your victory over the Snake at Frankenstein Castle, your next assignment is to conquer the Snake's Auerbach Castle a bit further down south, from where he has been coordinating his destructive attacks against Frankenstein Castle. This is one of the Snake's most strongly secured fortresses. Hence, this task is giving you some feelings of uneasiness. Additionally, the fortress must not just be captured but also held and secured. This is in Lord Frankenstein's utmost interest, and for this purpose, he will hand over to you a significant portion of the savings you helped him accumulate. Once you have occupied the castle, invest the money immediately into a powerful defence garrison. Be also prepared for Duke Truffe who will not stand back.
 
-![22](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/72c0e2e3-b8fc-4ae2-ac22-65f4dffb7e9b)
+![22](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/1f3ec858-5fd8-453e-b022-ea197d46183b)
 
 ---
 
@@ -254,7 +254,7 @@ _**2nd Campaign - Mission 31 - Wartburg Castle**_
 
 Eisenach, June 1283. Your success is drawing ever more attention to itself. The governors of further counties feel increasingly encouraged to resist the three remaining tyrants. The city of Eisenach has begun a revolt against the Snake and the city's troops are now sieging Wartburg Castle, which is owned by the Snake. As the city's governor has little experience in warfare, he has asked you for reinforcements and offers you to command his troops. You accept the offer and move to Wartburg Castle with a company of crossbowmen and pikemen. The Snake has recently stored significant supplies of weapons in the castle. It would be of great importance to obtain these, together with the castle. The castle is strongly guarded. Therefore, your troops are a little afraid, which finds expression in their morale. Once you have captured the castle, create a thriving economy. You have now obtained the knowledge to build ballistae.
 
-![31](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/37db4f26-8458-4791-92a7-96373396138c)
+![31](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/b6166aaa-d3a5-4f80-bf40-15a90d3c42b0)
 
 ---
 
@@ -270,7 +270,7 @@ _**2nd Campaign - Mission 33 - At the gates of Erfurt**_
 
 City of Erfurt, April 1285. The Drei Gleichen castles have fallen and are yours. The citizens of Erfurt are now seizing the opportunity and revolt against the Snake's rule. But the Snake and the Pig want no further precedential cases. They immediately deploy a large army to siege the city. Unfortunately, you currently have no considerable number of troops to influence the battle in your favour. However, you receive good news from the Bavarian provinces that have so far been dominated by the Snake. Under the leadership of the city of Nuremberg, the provinces have declared themselves independent and declared war against the Snake. The rulers of Nuremberg, Munich and Augsburg heard of the siege of Erfurt and immediately put a group of a hundred riders under your command. As soon as the group arrived, you hastily rode to Erfurt. As the city comes in sight, the siege is already well underway.
 
-![33](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/46724d33-eae9-4a07-961b-cf2ea619ec2e)
+![33](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/7ea5bac6-1a6b-4890-880f-0fbf5f6cb08f)
 
 ---
 
@@ -278,7 +278,7 @@ _**2nd Campaign - Mission 34 - The Snake's nest**_
 
 Kriebstein Castle, May 1285. Erfurt was kept but heavy losses on both sides were the price. In planning to take a deadly stroke against Beauregard, you call for reinforcements and pursue the remnants of Beauregard's troops eastwards to his home castle, Kriebstein Castle, which is situated high on the cliffs over a serpentine river. You fail to catch up with the enemy and see them move into the castle only from a distance. Circumvent the castle and siege it. Use a new siege tool, the trebuchet, to raze the towers and gatehouses to the ground. The conflict with the Snake must come to an end here for good. Ensure that your archers and crossbowmen survive the siege unharmed, should Duke Truffe come to the Snake's aid. In that case, you must defend yourselves from the ruins as you would not survive the open conflict with Truffe in the fields.
 
-![34](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/77c85122-6d96-4757-8fa3-a365ea375bcb)
+![34](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/21f4e963-5452-4ad8-98e0-22bc221648f4)
 
 ---
 
@@ -334,7 +334,7 @@ _**3rd Campaign - Mission 41 - Bloodshed in the Taunus Mountains**_
 
 Eppstein Castle, October 1288. Duke Beauregard has finally received his just punishment. In addition, you were able to seize the territories on the left side of the Rhine River from the Pig's hands. You now cross the Rhine River with a large army to bring the Pig's spacious northeastern provinces under your control. In these mostly tree-covered regions, Duke Truffe maintains a number of heavily guarded fortresses. It is vital to capture them before sieging his main castle further to the north by the Rhine River. Eppstein Castle, a strongly secured hill castle with numerous defence walls, is nearest. A strong garrison of the Pig is currently on the way to the fortress. Cut off the garrison's way to the castle before they take up quarters there. Then capture the stronghold, but only destroy it to the degree necessary, as you will still need these walls.
 
-![41](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/99845926-6ef2-4e3b-93ae-1267192ce86c)
+![41](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/3e67422e-6830-4139-a41b-002bf921a7ba)
 
 ---
 
@@ -502,7 +502,7 @@ _**4th Campaign - Mission 62 - Treason in Hohenzollern**_
 
 Hohenzollern Castle, November 1297. After months of siege, you finally manage to take the castle. But a prisoner tells you that the Wolf secretly left with a troop of riders weeks ago. Immediately you send your inquiries throughout the empire. After two weeks you receive bad news from the south. The Lord of Hohenzollern who has a powerful fortress in Württemberg was now cooperating with the Pope and granted the Wolf asylum. High treason! - at the decisive moment of your movement! This cannot be tolerated. You immediately travel south to put things in order.
 
-![62](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/9edfe6e9-0556-42bf-aa64-7efb7ebd34b1)
+![62](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d8f6c6eb-be14-443f-a10d-796707b19901)
 
 ---
 
@@ -510,7 +510,7 @@ _**4th Campaign - Mission 63 - The last tyrant**_
 
 Hohenschwangau Castle, February 1298. Hohenzollern Castle was rightfully cleansed of the traitors. But again, to your great astonishment, you realise that the Wolf was not among the prisoners. A messenger comes to you and explains that a heavily armed black squad has been seen on the southern border of the empire, has occupied Hohenschwangau Castle, and devastated the nearby small town. You immediately march south and besiege the castle. You manage to take the right wing of the castle, but the Wolf has barricaded himself in the tower opposite, which has a secret underground entrance. To make matters worse, you are now being shot at from there and cannot defend yourselves because you have lost almost all of your ranged fighters. What have you gotten yourself into here? You urgently need to find the secret access route. Quickly pull your little rear guard to the castle and make sure that the Wolf does not escape anymore!
 
-![63](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/116aacfc-0d28-4018-8476-e7db707e5633)
+![63](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/3ae0b3f5-e744-436c-8108-8f6df3866701)
 
 ---
 
@@ -518,7 +518,7 @@ _**5th Campaign - Mission 64 - The shameful sons**_
 
 Salzburg, June 1298. When you saw the Wolf dead at your feet, you believed that the final battle had been fought. But the emerging celebratory mood is dampened when you hear that the powerful city of Salzburg has decided not to recognise you as the future emperor and was about to secede from the empire. You will not tolerate this, even if it was only for the reason that because Salzburg still owes the empire large amounts of money. You therefore gather all available troops from the empire and march east to Salzburg to take Hohensalzburg Fortress, which should put an end to the separation efforts. But when you reach the city, even worse news arrive. The sons of the Wolf, Pig, and Rat, shameful individuals, have gathered together to avenge the death of their fathers and are already on the march to confront you near Salzburg. How much time do you have left?
 
-![64](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/f9fbe9cc-f9a0-44a6-815d-c8ad21edb745)
+![64](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/750fb990-7a1d-438c-9df5-cc3df17bfe68)
 
 ---
 
@@ -526,7 +526,7 @@ _**5th Campaign - Mission 65 - The revenge of the separatists**_
 
 Burghausen, June 1299. The victory against the Salzburgers and the rebellious sons has strengthened your position of power. But Salzburg is not giving up. A few weeks after calm has returned to Salzburg, you receive bad news: Those from Salzburg who had fled have incited the King of Bohemia against you. Burghausen Castle, a large fortress in your Bavarian provinces, was on the verge of a siege and urgently needed support. You only have a few troops left, but you travel to Burghausen immediately. The Bohemians will also have to learn their lesson! As the arrows start flying, you manage to sneak your troops into the castle just in time. Quickly get the weapons from the armory to everyone available!
 
-![65](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/eec15b86-d7e2-41b5-9943-ab9820899b6b)
+![65](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d3e1e5c2-2662-4c9f-b544-fa98ce3fa64b)
 
 ---
 
@@ -534,7 +534,7 @@ _**5th Campaign - Mission 66 - The intrusive neighbour**_
 
 Nuremberg, August 1299. The Salzburg uprising as been suppressed. But the King of Bohemia considered the defeat in Burghausen as an affront. He is preparing to send even larger contingents of troops against the cities of your empire. You have just learned that the imperial city of Nuremberg is under siege by a large Bohemian army. When you arrive at the scene with your rapid intervention force, parts of the city are already in flames. Hold the city, defend it, and restore it to its former strength!
 
-![66](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/9b59d676-dfc5-403f-a19a-3004c7adc31c)
+![66](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/22166f4e-3381-4544-a5b1-2f1737f5c777)
 
 ---
 
@@ -542,7 +542,7 @@ Nuremberg, August 1299. The Salzburg uprising as been suppressed. But the King o
 
 Mount Großer Arber, Bavarian Forest, October 1300. After you have cleared the region around Nuremberg of the enemy, it is time to finally put a stop to the King of Bohemia. You move your army to the imperial border in the southeast. Your enemy is not letting you wait. He has lined up at Mount Großer Arber and gained an advantageous position on the mountain top. With difficulty you push your army through the dry undergrowth. It hasn't rained for weeks. As the enemy comes into view, you realise that you are heavily outnumbered. You feverishly search the area for favourable defensive positions. Not far from you there is a ruined tower, and here and there are abandoned hunters' seats. Suddenly you receive information about an abandoned storage area with stocks of lamp oil, which must have served the no longer existing hill chapel. Can this be used to set up a fire wall in the dry forest? Just do not burn yourselves!
 
-![67](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5c511cf1-06d3-4e5f-98e9-5065cefd78c9)
+![67](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d21dc321-851d-4132-a7dd-ce0bb9f5ee63)
 
 ---
 
@@ -550,7 +550,7 @@ Mount Großer Arber, Bavarian Forest, October 1300. After you have cleared the r
 
 Coburg, October 1300. After the narrow victory in the Bavarian Forest, you begin planning for your election as emperor in Frankfurt. But before you can leave there, you receive bad news again. The Pope has finally decided to deny you the imperial dignity. Therefore, he sent massive contingents of troops to the command of his ally, the Duke of Bohemia, in order to cause chaos in your empire. You immediately send your main troops to the trouble spots, especially to Coburg, where the enemy is already at the gates. Your cavalry reaches the castle just in time. It is too late for the rest of your soldiers. They must take on the enemy at the castle gates, where the latter has set up a wall of fire to shield themselves. Will Coburg fall? When will peace finally return to the empire?
 
-![68](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/320d91b9-1f80-4f80-ac83-0a707e53699d)
+![68](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/df8293b2-12d6-49ec-8dd6-e7468fb3933d)
 
 ---
 
@@ -558,7 +558,7 @@ Coburg, October 1300. After the narrow victory in the Bavarian Forest, you begin
 
 Hambach Castle, November 1300. After the victory in Coburg you had hoped to finally be able to stand for election as emperor. But far from it! Misfortune rarely comes alone, and especially not when powerful enemies are trying to sabotage your election as emperor. You are surrounded by adversaries and cannot afford to rest now. As if Bohemia in the east and the Pope in the south were not enough of a burden, Catholic France now officially declares war on you, besieges Hambach Castle in the Palatinate, and sets everything there on fire. Be sure to support the lord of the castle and ensure that Hambach goes down in history as a place of a brilliant victory. Then stay there until the enemy loses interest in the conflict.
 
-![69](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/023ecd7d-f8b1-4cae-a17d-f2859475afc7)
+![69](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/48dce5df-feb9-4559-8cc2-2442700134ed)
 
 ---
 
@@ -566,5 +566,6 @@ Hambach Castle, November 1300. After the victory in Coburg you had hoped to fina
 
 Frankfurt, December 1300. After the victory in Hambach you reach Frankfurt, and the celebrations for your election to become the emperor are in full swing. But the ceremony comes to an abrupt end when you receive the news that a fire has broken out in the city. From then on, the bad news pile up. To make matters worse, you now hear that three powerful armies are approaching to prevent your imperial coronation and raze the city to the ground. You already suspect that again, it can only be the Pope, the King of Bohemia, and the French. Save the city and yourselves at all costs and stand your ground in battle. Then expand the city into an imperial city that lives up to its name. Show the beauty of your architecture to the entire empire. And, last but not least: Ensure that your imperial army is adequately equipped so that your empire can continue to prosper in peace for a long time.
 
-![70](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/36ee18b9-768f-4526-aee1-8de2be03a799)
+![70](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/a4f5a84b-e6cb-4fb6-aeca-4ebed8bfb429)
+
 
