@@ -8,6 +8,8 @@ The missions have been grouped into five campaigns and feature dozens of real-li
 
 At 'very hard' settings, most of my missions are tough but feasible. Like in the Middle Ages, you will need to build and defend your castle wisely.  
 
+---
+
 _**1st Campaign - Mission 01 - Escape to the mountains**_
 
 Mount Watzmann, January 1275. Like a dying tree, the order of the Old German Empire has perished. Within just a few years, the "Rebellious Four" managed with deceit and violence to conquer the imperial armies, dethrone the Emperor, and completely divide the Empire among themselves. As one of the late Emperor's last loyalists, you must go into hiding and are heading south towards the mountains with a few allies. You have now arrived in the area of Mount Watzmann by Lake Königssee, near which there is a small alpine hut of the enemy with cows. Assuming that no one will pursue you in this remote area, you will seize the hut and hope that the move will not have any repercussions. Stock up your supplies once the hut is yours. The wild animals are a serious threat here.
