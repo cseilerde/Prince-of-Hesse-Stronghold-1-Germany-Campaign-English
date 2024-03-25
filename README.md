@@ -18,7 +18,7 @@ Mount Watzmann, January 1275. Like a dying tree, the order of the Old German Emp
 
 ---
 
-**1st Campaign - Mission 02 - The Pass of the Two Towers**
+_**1st Campaign - Mission 02 - The Pass of the Two Towers**_
 
 A mountain pass in the Alps, March 1275. What was not supposed to happen happened. You were spotted by a patrol of Duke Beauregard who because of his slyness is also called "the Snake". Although you were able to defeat the troop, you must leave your base in haste. You are now arriving at a mountain pass with two old watchtowers. As you are about to reach the summit you spot a patrol of the Snake heading towards you who appears to be fleeing from a pack of wolves. You must retreat immediately, maybe to one of the two towers?
 
