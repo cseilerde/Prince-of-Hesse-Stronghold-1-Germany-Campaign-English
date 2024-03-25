@@ -410,7 +410,7 @@ Roßlau, August 1292. How wrong you were! When you reached Hohnstein Castle, you
 
 _**4th Campaign - Mission 51 - War in the heathlands**_
 
-Description coming soon
+Lüne Monastery, August 1292. Your are now within the Wolf's remote eastern provinces. As you are not at all ready to attack his castle, you decide to encircle him step by step. For this purpose you move your troops a few days' marches to the northwest. You are now near Lüne Monastery, a large cloister led by a monk who holds you in high esteem. The compound was once surrounded by a river, however, the river has almost dried up. You receive a message that the monastery is under attack right now by troops of the Wolf and is therefore in urgent need of support. You immediately move your men to the cloister, but when you arrive, it is already on fire. What now? Save what can be saved and ensure that the monastery is rebuilt.
 
 
 
@@ -418,7 +418,7 @@ Description coming soon
 
 _**4th Campaign - Mission 52 - Through the back door**_
 
-Description coming soon
+Bomlitz in der Heide, February 1293. Lüne has proven to be a good base, and after several fierce battles, you manage to repel the Wolf's troops. However, the enemy was able to kidnap the monastery's leader shortly after the first battle while he was on a hunting ride. After several months you receive a message stating that your friend is still alive and held captive in Hünenburg Castle near Bomlitz village, which is around three days' marches towards the southwest. As your friend's fate is important to you, and given you are of the opinion that it is about time to create further turmoil in the Wolf's provinces, you start marching to Bomlitz. As you arrive, you realise that the fort is well guarded. Is there a chance to bypass the heavily guarded and mined main gate? As soon as you have found a way into the castle, eliminate the enemy and capture the fort for yourself.
 
 
 
@@ -426,7 +426,7 @@ Description coming soon
 
 _**4th Campaign - Mission 53 - The swamps of doom**_
 
-Description coming soon
+Swamplands in the northern Lüneburg Heath, June 1293. The Wolf has been sending ever stronger army batallions that increasingly damage your fort. It was never your plan to hide behind wooden walls from the Wolf's catapults. You avoid further conflict and move northwards. However, as you pass through some wetlands, heavy rainfalls cause the water levels to rise, and your pathway becomes impassable. Your troops get stuck, and it is impossible to travel further. You are trapped. Of course, it is only a matter of time until the Wolf will find out about your presence here. Under these circumstances, you are like sitting ducks for him. What now? Can you hide in these swamplands at all? To make matters worse, the bugs and the unclean water are causing your men to fall sick. Ghost lights are illuminating your pathway through the thicket. Will you die a horrible death in the mire?
 
 
 
@@ -434,7 +434,7 @@ Description coming soon
 
 _**4th Campaign - Mission 54 - Bad luck in Glücksburg Castle**_
 
-Description coming soon
+Glücksburg Castle, October 1293. Thankfully, in the surrounding area there was a lot of pitch which allowed you to use it for smuggling. A few months and many deaths by disease later, the swamp has dried up and become passable. Just after you repel another attack of the Wolf's men, you manage to escape. You urgently need a new base and must give your men rest. You must therefore move as far as possible out of the Wolf's sphere of influence. A scout reports that far up north, bordering the Vikings' kingdom, there is an old and marshy ruin of a monastery called 'Glücksburg Castle', which appeasr to be occasionally used by a small group of Vikings. You are aware that the Vikings have formed an alliance with the Wolf, but dealing with them seems to be less of a risk than remaining in the Wolf's territory. You head off for a long trip and hope that the Wolf will not detect you here.
 
 
 
@@ -442,7 +442,7 @@ Description coming soon
 
 _**4th Campaign - Mission 55 - Burst dreams**_
 
-Description coming soon
+Helgoland Island, March 1294. Of course, the Vikings revealed your presence to the Wolf, and it did not take him long to arrive at your gates. But now your worst nightmare has come true. As you laid down to rest in your keep after the latest skirmish, your guards got drunk in the tavern. Several Vikings must then have accessed your castle, possibly using a rope under the cloud of night and from the lake's side, must have entered your chamber, beaten you unconscious, and kidnapped you. As you wake up with a painful head and blood over your face, you can hear scraps of conversation of the wards around you in a Nordic dialect. You realise that you have been fettered and locked up in a small castle on a rugged island. What for all the world happened? Who could ever find you here? Are your men aware of your position? You are afraid that this may be the end unless a miracle happens.
 
 
 
@@ -450,7 +450,7 @@ Description coming soon
 
 _**4th Campaign - Mission 56 - Far off the beaten track**_
 
-Description coming soon
+Coast of the North Sea, September 1294. After months of waiting, your men managed to get hold of your position and send a special command to the island to rescue you. However, as a storm destroyed your men's ship, you were unable to depart and had to defend yourselves yet again against the Wolf and rambling mobs of Vikings until you had gathered sufficient resources to build a new ship, and collected food supplies for the journey. You will not return to 'Glücksburg Castle', which was a place of bad luck, but you will head south to the very scarcely populated Noryh Sea shore. You arrive at a broad sandy bneach with dunes behind which there is a small forest. In this region, far from civilisation, you will set up a new base. You need two things: Men and weapons. Where will you get the resources from? It looks like you will need to get engaged in smuggling again.
 
 
 
@@ -458,7 +458,7 @@ Description coming soon
 
 _**4th Campaign - Mission 57 - Treacherous peace**_
 
-Description coming soon
+Near the mouth of the Weser River, March 1295. You send a charge of weapons to your provinces as they have urgently requested this. Then you head off with the remaining equipment and come across the Wolf's former main castle which he once built there, suitably placed at the Weser River delta. The Emperor's army damaged the castle back then during a siege, and since then it has been abandoned and in a state of decay. You will set up your camp here. The Wolf, you are told, is currently busy with other issues and has neither money nor time to fight you. Set up a base here and fortify the castle into an invulnerable fortress from which you will then coordinate all further sieges in the Wolf's territory. The flat land around you is well suited for a castle ditch. Ensure you dig deep as the Wolf will certainly siege you here as soon as he can.
 
 
 
@@ -466,7 +466,7 @@ Description coming soon
 
 _**4th Campaign - Mission 58 - The fateful forest**_
 
-Description coming soon
+Teutoburg Forest, March 1296. It took a while until the Wolf attacked your fortress by the Weser River. His immense siege efforts exceeded what you expected, given you were told that he was short of cash. Neverthelesss, you remained victorious in this region. With a formidable army you are now moving southwards on an old Roman road. It leads you through the Wolf's core territory and allows you to surround his main castle from the west. His castle is situated around five days' marches eastwards. You enter Teutoburg Forest in which centuries ago a powerful army met its death. Your vanguard has taken up quarters in Falkenburg Castle. Its Lord passionately supports your rebellion. As your main army is following the windy path in the valley below the castle, the crows begin to scream, and the thunder of horses' hoofs fills the air. Is the curse of this forest lying on you, too?
 
 
 
@@ -474,7 +474,7 @@ Description coming soon
 
 _**4th Campaign - Mission 59 - When two people quarrel**_
 
-Description coming soon
+Regenstein Castle, September 1296. Your troops were subject to the same fate in the Teutoburg Forest as the old Roman army centuries ago. However, despite heavy casualties, you repeatedly managed to tie up and eliminate large armies of the Wolf here. The word of your success has spread across the territories of the Wolf, and uprisings and rebellions are now capturing his reign like a fungus eating into rotten wood. You have been waiting for this moment. You will exploit the momentary weakness of the Wolf and close the circle around his main castle, the mighty Asseburg Castle. South of this castle there are the foothills of the Harz Mountains which you already passed a while ago. Here, Regenstein Castle sits enthroned on a mountain crest. This strategically important fortress must become yours, to ensure you are well equipped for the last battle. As you arrive, a skirmish has broken out near the castle between rebels and troops of the Wolf. When two people quarrel ...
 
 
 
@@ -482,7 +482,7 @@ Description coming soon
 
 _**4th Campaign - Mission 60 - An unholy alliance**_
 
-Description coming soon
+On the road to Asseburg Castle, April 1297. Regenstein Castle is yours, and the Wolf has now on all sides been cut off from his collapsing empire. He certainly knows: You are the largest threat to his reign. Therefore, he will do everything in his power to eliminate you once and for all. To this end, he is frantically seeking new alliances. With a well equipped army you begin your march to the Wolf's castle. But the Wolf anticipates your move and sends his main army out against you. As you arrive at a valley, you spot the enemy in the distance. To your surprise, you also see purple coloured shields far off to the left. You realise that these must be troops of the Pope. Has the Wolf formed an alliance with the Pope? Will this cloudy and chilly April day determine the fate of your movement? It appears you are outnumbered. Move your troops quickly into position!
 
 
 
