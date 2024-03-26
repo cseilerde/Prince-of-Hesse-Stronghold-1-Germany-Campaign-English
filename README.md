@@ -16,6 +16,8 @@ At 'very hard' settings, most of my missions are tough but feasible. Like in the
 
 ![image](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1d426b1c-d167-4172-8b3f-70a7e8da5775)
 
+Download link to all maps: https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/tree/main/Prince%20of%20Hesse%20Campaign 
+
 ---
 
 _**1st Campaign - Mission 01 - Escape to the mountains**_
