@@ -18,7 +18,7 @@ At 'very hard' settings, most of my missions are tough but feasible. Like in the
 
 **Our journey through medieval Germany:**
 
-![image](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1d426b1c-d167-4172-8b3f-70a7e8da5775)
+![english map](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6b692d93-e92a-4714-90ab-da46c522a9d9)
 
 ---
 
