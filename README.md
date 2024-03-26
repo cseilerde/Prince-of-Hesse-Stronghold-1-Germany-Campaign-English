@@ -12,11 +12,11 @@ The missions have been grouped into five campaigns and feature dozens of real-li
 
 At 'very hard' settings, most of my missions are tough but feasible. Like in the Middle Ages, you will need to build and defend your castle wisely.  
 
+Download link to all maps: https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/tree/main/Prince%20of%20Hesse%20Campaign 
+
 **All missions on the map:**
 
 ![image](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1d426b1c-d167-4172-8b3f-70a7e8da5775)
-
-Download link to all maps: https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/tree/main/Prince%20of%20Hesse%20Campaign 
 
 ---
 
