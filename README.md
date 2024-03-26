@@ -12,9 +12,9 @@ The missions have been grouped into five campaigns and feature dozens of real-li
 
 At 'very hard' settings, most of my missions are tough but feasible. Like in the Middle Ages, you will need to build and defend your castle wisely.  
 
-**To download all 70 maps, click on the green button 'Code' and then on 'Download ZIP'.**
+**To download all 70 maps, click on the green button 'Code' and then on 'Download ZIP'. Then extract the ZIP file into the following folder: C:\Users\[YOUR USER NAME]\Documents\Stronghold\Maps**
 
-**All missions on the map:**
+**Our journey through medieval Germany:**
 
 ![image](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1d426b1c-d167-4172-8b3f-70a7e8da5775)
 
