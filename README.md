@@ -1,5 +1,7 @@
 ![English-small](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/96875eef-55fa-43cb-8af5-d1e7e5e73238)
 
+_**Prince of Hesse - Germany Campaign**_
+
 Stronghold is not just a game. It is one of the best and most popular strategy games of all time. I appreciate the depth of strategic thinking Stronghold requires from the player, and even more, the world editor, which allows you to design a map to the greatest level of detail and reflect nature's beauty in it. 
 
 Acknowledging the great work many authors have contributed to the Stronghold Community, I created a set of 70 missions to conquer medieval Germany. My aim is to give you a Stronghold experience that reflects the beauty of my home country Germany and the diversity of its castles. 
